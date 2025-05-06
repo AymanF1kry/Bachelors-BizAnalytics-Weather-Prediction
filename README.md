@@ -1,4 +1,4 @@
-# ⛅ Weather Prediction Model – Business Analytics Project
+# Weather Prediction Model – Business Analytics Project
 
 ![RapidMiner](https://img.shields.io/badge/Tool-RapidMiner-orange?logo=rapidminer)
 ![Dataset](https://img.shields.io/badge/Data-Kaggle-blue)
